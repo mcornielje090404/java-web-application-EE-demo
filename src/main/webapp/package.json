@@ -2,7 +2,7 @@
   "name": "Calculator",
   "private": true,
   "scripts": {
-    "build": "tailwindcss -i ./main.css -o ./static/main.css"
+    "build": "tailwindcss -i ./main.css -o ./static.css"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
